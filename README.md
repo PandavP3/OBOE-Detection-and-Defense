@@ -30,7 +30,7 @@ This project implements a GCC plugin that statically analyzes C/C++ source code 
 
 2. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/oboe-static-analyzer.git
+    https://github.com/PandavP3/OBOE-Detection-and-Defense.git
     cd oboe-static-analyzer
     ```
 
